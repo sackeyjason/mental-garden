@@ -1,2 +1,0 @@
-# mental-garden
-Begin app
